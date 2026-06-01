@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+venv/
+.env
+.env.local
+node_modules/
+dist/
+build/
+.DS_Store
+*.log
+
+# Project-specific
+backend/venv/
+frontend/node_modules/
+frontend/dist/
+.vscode/
+
+# Data files (keep only README)
+data/*.csv
+data/*.xlsx
+data/*.zip
