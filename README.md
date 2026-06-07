@@ -77,7 +77,7 @@ Frontend URL: `http://127.0.0.1:5173`
 
 ## Dataset Placement Instructions
 Place CSV exactly here:
-`/Users/churnika/Documents/New project/weather-trend-forecasting/data/GlobalWeatherRepository.csv`
+`/Users/peddi/Documents/New project/weather-trend-forecasting/data/GlobalWeatherRepository.csv`
 
 ## API Endpoints
 - `GET /`
