@@ -100,8 +100,6 @@ Place CSV exactly here:
 ## Screenshots
 Add screenshots in your GitHub repo under `report/screenshots/` and embed them here.
 
-## Demo Video Script
-See [report/demo_script.md](/Users/churnika/Documents/New project/weather-trend-forecasting/report/demo_script.md)
 
 ## Assessment Checklist
 - [x] Data cleaning completed
